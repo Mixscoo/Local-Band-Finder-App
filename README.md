@@ -1,5 +1,6 @@
 # 🎸 Local Band Finder
 
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![FlutterFlow](https://img.shields.io/badge/FlutterFlow-5C2D91?style=for-the-badge&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -34,6 +35,7 @@ A mobile application designed to help users **find local bands**, view upcoming 
 
 ## 🛠️ Technologies Used
 
+- **Dart** – Programming language used in Flutter
 - **Flutter** – Cross-platform mobile framework
 - **FlutterFlow** – Visual app builder and logic editor
 - **Firebase (Optional)** – For Auth and data storage (if used)
