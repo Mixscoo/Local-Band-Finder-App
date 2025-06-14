@@ -1,0 +1,39 @@
+// Export pages
+export '/login_signup_pages/login_page/login_page_widget.dart'
+    show LoginPageWidget;
+export '/band_pages/band_home_page/band_home_page_widget.dart'
+    show BandHomePageWidget;
+export '/band_pages/band_profile_page/band_profile_page_widget.dart'
+    show BandProfilePageWidget;
+export '/password_management/forgot_password_page/forgot_password_page_widget.dart'
+    show ForgotPasswordPageWidget;
+export '/password_management/change_password_page/change_password_page_widget.dart'
+    show ChangePasswordPageWidget;
+export '/band_pages/create_event_page/create_event_page_widget.dart'
+    show CreateEventPageWidget;
+export '/band_pages/view_all_events_page/view_all_events_page_widget.dart'
+    show ViewAllEventsPageWidget;
+export '/band_pages/band_view_event_details/band_view_event_details_widget.dart'
+    show BandViewEventDetailsWidget;
+export '/band_pages/edit_band_profile_page/edit_band_profile_page_widget.dart'
+    show EditBandProfilePageWidget;
+export '/band_pages/edit_event_page/edit_event_page_widget.dart'
+    show EditEventPageWidget;
+export '/login_signup_pages/complete_band_profile_page/complete_band_profile_page_widget.dart'
+    show CompleteBandProfilePageWidget;
+export '/login_signup_pages/complete_visitor_profile_page/complete_visitor_profile_page_widget.dart'
+    show CompleteVisitorProfilePageWidget;
+export '/visitor_pages/save_events_page/save_events_page_widget.dart'
+    show SaveEventsPageWidget;
+export '/visitor_pages/visitor_view_event_details/visitor_view_event_details_widget.dart'
+    show VisitorViewEventDetailsWidget;
+export '/visitor_pages/visitor_profile_page/visitor_profile_page_widget.dart'
+    show VisitorProfilePageWidget;
+export '/visitor_pages/edit_visitor_profile_page/edit_visitor_profile_page_widget.dart'
+    show EditVisitorProfilePageWidget;
+export '/login_signup_pages/loading_screen/loading_screen_widget.dart'
+    show LoadingScreenWidget;
+export '/visitor_pages/search_event_page/search_event_page_widget.dart'
+    show SearchEventPageWidget;
+export '/visitor_pages/visitor_home_page/visitor_home_page_widget.dart'
+    show VisitorHomePageWidget;

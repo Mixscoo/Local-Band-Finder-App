@@ -1,0 +1,54 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "post_events",
+      "queryScope": "COLLECTION_GROUP",
+      "fields": [
+        {
+          "fieldPath": "music_genre",
+          "arrayConfig": "CONTAINS"
+        },
+        {
+          "fieldPath": "created_time",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "post_events",
+      "queryScope": "COLLECTION_GROUP",
+      "fields": [
+        {
+          "fieldPath": "city",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "created_time",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ],
+  "fieldOverrides": [
+    {
+      "collectionGroup": "post_events",
+      "fieldPath": "created_time",
+      "indexes": [
+        {
+          "order": "DESCENDING",
+          "queryScope": "COLLECTION_GROUP"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "post_events",
+      "fieldPath": "city",
+      "indexes": [
+        {
+          "order": "ASCENDING",
+          "queryScope": "COLLECTION_GROUP"
+        }
+      ]
+    }
+  ]
+}

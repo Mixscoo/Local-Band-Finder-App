@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "351136579757",
+    "project_id": "local-band-finder-app-25uf20",
+    "storage_bucket": "local-band-finder-app-25uf20.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351136579757:android:f9078e2c44b37a10454624",
+        "android_client_info": {
+          "package_name": "com.mycompany.localbandfinderapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEQFuudgBXRrZqgcRAJzEhUc4aTpk0B3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
