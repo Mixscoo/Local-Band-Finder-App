@@ -49,7 +49,7 @@ A mobile application designed to help users **find local bands**, view upcoming 
 
 ### Installation
 
-1. Download the latest `.apk` file from the [Releases](https://github.com/your-username/local-band-finder/releases) section
+1. Download the latest `.apk` file from the [Releases](https://github.com/Mixscoo/Local-Band-Finder-App/releases/tag/v1.0) section
 2. Install it on your Android phone
 3. Launch the app and login using your account, or create a new one
 
@@ -68,7 +68,7 @@ This project was built as a personal exploration into mobile-first platforms tha
 
 ## 📦 Download
 
-🔗 [Download APK](https://github.com/your-username/local-band-finder/releases/download/v1.0/LocalBandFinder.apk)
+🔗 [Download APK](https://github.com/Mixscoo/Local-Band-Finder-App/releases/tag/v1.0)
 
 ## 🤝 Contributing
 
